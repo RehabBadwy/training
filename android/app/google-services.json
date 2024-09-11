@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "769753589050",
+    "project_id": "trainig-88988",
+    "storage_bucket": "trainig-88988.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769753589050:android:1655e528f2aded89c69c03",
+        "android_client_info": {
+          "package_name": "com.example.task_trainig"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZjLt0dduaGarseHusP3h_-jtZEVPexwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
